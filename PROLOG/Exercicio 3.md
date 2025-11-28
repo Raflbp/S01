@@ -1,4 +1,6 @@
- ---
+
+Exercício 3
+---
 >	Autor: @Ralfbp{Z4π} 
 --- 
 ##### Site Utilizado
